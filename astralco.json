@@ -9,7 +9,8 @@
       "max_banner" :"070d4f9051431366",
       "ironKey" : "168fc7ded",
       "rootFeature" : false,
-      "homestring" : "More than 10,000 Movies and TV Shows to enjoy for Free!",
+      "homestring" : "Just Another test",
+      "btnstring" : "LETS GO",
       "osFeature" : false,
       // Close con
       "mClose" : false
