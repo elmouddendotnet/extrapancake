@@ -1,7 +1,7 @@
 {
    "adsController":{
       "isAd" : "max",
-      "privacyUrl" : "https://cinevisionapp.netlify.com/privacy",
+      "privacyUrl" : "https://tipsforcinevisionapp.netlify.app/privacy",
       "fan_banner" : "",
       "interOK" :false,
       "backgroundOK" :false,
@@ -9,8 +9,8 @@
       "max_banner" :"070d4f9051431366",
       "ironKey" : "168fc7ded",
       "rootFeature" : false,
-      "homestring" : "Just Another test",
-      "btnstring" : "LETS GO",
+      "homestring" : "App Tips & Instructions",
+      "btnstring" : "TIPS",
       "osFeature" : false,
       // Close con
       "mClose" : false
