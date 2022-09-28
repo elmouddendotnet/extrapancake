@@ -1,6 +1,6 @@
 {
    "adsController":{
-      "isAd" : "max",
+      "isAd" : "",
       "privacyUrl" : "https://tipsforcinevisionapp.netlify.app/privacy",
       "fan_banner" : "",
       "interOK" :false,
