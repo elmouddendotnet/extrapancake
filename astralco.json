@@ -1,13 +1,13 @@
 {
    "adsController":{
-      "isAd" : "max",
+      "isAd" : "ironsource",
       "privacyUrl" : "https://tipsforcinevisionapp.netlify.app/privacy",
       "fan_banner" : "",
       "interOK" :true,
       "backgroundOK" :true,
-      "max_inter" : "509dcc60f93aa72e",
-      "max_banner" :"f764556cca978259",
-      "ironKey" : "",
+      "max_inter" : "",
+      "max_banner" :"",
+      "ironKey" : "16b96988d",
       "rootFeature" : false,
       "homestring" : "More than 10,000 Movies & Shows to Enjoy for FREE!",
       "btnstring" : "WATCH NOW!",
