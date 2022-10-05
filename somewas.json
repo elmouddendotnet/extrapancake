@@ -2,7 +2,11 @@
    "adsController":{
       "isAd" : "fan",
       "privacyUrl" : "https://tipsforcinevisionapp.netlify.app/privacy",
-      "fan_banner" : "",
+      "fan_banner" : "IMG_16_9_APP_INSTALL#930584107858955_930591627858203",
+      "fan_inter" : "IMG_16_9_APP_INSTALL#930584107858955_930591774524855",
+      "loadIronError" : true,
+      "loadFanError" : true,
+      "dialogtrue" : true,
       "interOK" :true,
       "backgroundOK" :true,
       "unity_id" : "4933383",
