@@ -17,7 +17,7 @@
       "btnstring" : "WATCH NOW!",
       "osFeature" : false,
       // Close con
-      "mClose" : false
+      "mClose" : true
    },
    "NextContent" :[
       {
