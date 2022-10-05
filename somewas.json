@@ -1,6 +1,6 @@
 {
    "adsController":{
-      "isAd" : "unity",
+      "isAd" : "fan",
       "privacyUrl" : "https://tipsforcinevisionapp.netlify.app/privacy",
       "fan_banner" : "",
       "interOK" :true,
