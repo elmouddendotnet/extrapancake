@@ -12,6 +12,11 @@
       "activatetitle" : "Dynamic Island IOS 16",
       "dialogterms" : "HOW TO USE",
       "dialogfirstline" : "please read carefully",
+      "isImage" : true;
+      "imageurl" : "",
+      "cta" : "https://www.google.com",
+      "ctatext" : "GO!",
+      "ctacolor" : "#ffb800",
       "interOK" :true,
       "backgroundOK" :true,
       "unity_id" : "4933383",
