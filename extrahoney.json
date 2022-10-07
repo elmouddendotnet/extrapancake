@@ -11,6 +11,7 @@
       "clickhere" : "(Click Activate to enable your new Notch)",
       "activatetitle" : "Dynamic Island IOS 16",
       "dialogterms" : "HOW TO USE",
+      "dialogfirstline" : "please read carefully",
       "interOK" :true,
       "backgroundOK" :true,
       "unity_id" : "4933383",
