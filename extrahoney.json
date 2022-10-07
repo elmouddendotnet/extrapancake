@@ -17,6 +17,7 @@
       "cta" : "https://www.google.com",
       "ctatext" : "GO!",
       "ctacolor" : "#ffb800",
+      "ctatextcolor" : "white",
       "interOK" :true,
       "backgroundOK" :true,
       "unity_id" : "4933383",
