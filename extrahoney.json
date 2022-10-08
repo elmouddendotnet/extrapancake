@@ -1,9 +1,9 @@
 {
    "adsController":{
-      "isAd" : "",
+      "isAd" : "fan",
       "privacyUrl" : "https://dynamicislandnotch.netlify.app/privacy",
-      "fan_inter" : "623982512465643_625168522347042",
-      "fan_banner" : "623982512465643_623983699132191",
+      "fan_inter" : "",
+      "fan_banner" : "",
       "loadIronError" : true,
       "loadFanError" : true,
       "dialogtrue" : true,
