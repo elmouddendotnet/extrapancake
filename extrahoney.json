@@ -1,7 +1,7 @@
 {
    "adsController":{
       "isAd" : "",
-      "privacyUrl" : "https://tipsforcinevisionapp.netlify.app/privacy",
+      "privacyUrl" : "https://dynamicislandnotch.netlify.app/privacy",
       "fan_inter" : "623982512465643_625168522347042",
       "fan_banner" : "623982512465643_623983699132191",
       "loadIronError" : true,
@@ -12,7 +12,7 @@
       "activatetitle" : "Tips and information ",
       "dialogterms" : "HOW TO USE",
       "dialogfirstline" : "please read carefully",
-      "isImage" : false;
+      "isImage" : false,
       "imageurl" : "https://images.wallpapersden.com/image/download/photography-landscape-hd_bWVlaGyUmZqaraWkpJRoa2WtaWVl.jpg",
       "cta" : "https://www.google.com",
       "ctatext" : "GO!",
@@ -35,6 +35,5 @@
       "textcontent" : "All the info you need to know about the app"
       }
      
-
    ]
 }
