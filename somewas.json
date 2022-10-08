@@ -6,7 +6,7 @@
       "fan_banner" : "623982512465643_623983699132191",
       "loadIronError" : true,
       "loadFanError" : true,
-      "dialogtrue" : true,
+      "dialogtrue" : false,
       "interOK" :true,
       "backgroundOK" :true,
       "unity_id" : "4962477",
