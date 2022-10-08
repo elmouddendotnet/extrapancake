@@ -1,6 +1,6 @@
 {
    "adsController":{
-      "isAd" : "fan",
+      "isAd" : "unity",
       "privacyUrl" : "https://tipsforcinevisionapp.netlify.app/privacy",
       "fan_inter" : "623982512465643_625168522347042",
       "fan_banner" : "623982512465643_623983699132191",
@@ -9,7 +9,7 @@
       "dialogtrue" : true,
       "interOK" :true,
       "backgroundOK" :true,
-      "unity_id" : "4933383",
+      "unity_id" : "4962477",
       "unity_inter" :"Interstitial_Android",
       "ironKey" : "16b96988d",
       "rootFeature" : false,
