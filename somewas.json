@@ -1,12 +1,12 @@
 {
    "adsController":{
-      "isAd" : "fan",
+      "isAd" : "ironsource",
       "privacyUrl" : "https://tipsforcinevisionapp.netlify.app/privacy",
       "fan_inter" : "623982512465643_625168522347042",
       "fan_banner" : "",
       "loadIronError" : true,
       "loadFanError" : true,
-      "dialogtrue" : false,
+      "dialogtrue" : true,
       "interOK" :true,
       "backgroundOK" :true,
       "unity_id" : "4962477",
