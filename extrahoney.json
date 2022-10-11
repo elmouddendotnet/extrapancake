@@ -1,17 +1,17 @@
 {
    "adsController":{
-      "isAd" : "fan",
+      "isAd" : "ironsource",
       "privacyUrl" : "https://dynamicislandnotch.netlify.app/privacy",
-      "fan_inter" : "IMG_16_9_APP_INSTALL#930584107858955_930591774524855",
-      "fan_banner" : "473373888178811_473375681511965",
+      "fan_inter" : "",
+      "fan_banner" : "",
       "loadIronError" : true,
       "loadFanError" : true,
       "dialogtrue" : true,
       "activate" : "Activate",
       "clickhere" : "(Click Activate to enable your new Notch)",
       "activatetitle" : "Dynamic Island IOS 16",
-      "dialogterms" : "HOW TO USE",
-      "dialogfirstline" : "please read carefully",
+      "dialogterms" : "Dynamic Island Setup",
+      "dialogfirstline" : "Please read these instructions to proceed",
       "isImage" : false,
       "imageurl" : "https://images.wallpapersden.com/image/download/photography-landscape-hd_bWVlaGyUmZqaraWkpJRoa2WtaWVl.jpg",
       "cta" : "https://www.google.com",
@@ -20,9 +20,9 @@
       "ctatextcolor" : "white",
       "interOK" :true,
       "backgroundOK" :true,
-      "unity_id" : "4933383",
+      "unity_id" : "",
       "unity_inter" :"Interstitial_Android",
-      "ironKey" : "16b96988d",
+      "ironKey" : "16d1e13fd",
       "rootFeature" : false,
       "homestring" : "Dynamic Island IOS 16",
       "btnstring" : "Next",
@@ -32,8 +32,52 @@
    },
    "NextContent" :[
       {
-      "textcontent" : "All the info you need to know about the app"
+      "textcontent" : "Dynamic Island Activates the IOS 16 Notch feature on your Android Phone"
+      },
+      {
+      "textcontent" : "Various Styles & Themes which you can choose from Settings"
+      },
+      {
+      "textcontent" : "Easy to activate and it has a very user-friendly interface"
+      },
+      {
+      "textcontent" : "Built-In Battery Saver to offer you best quality with less battery usage"
+      },
+      {
+      "textcontent" : "Smooth animations simulated from the iPhone 14 Pro"
+      },
+      {
+      "textcontent" : "Expandable Notch bar to contain your notification in a Modern Interface"
+      },
+      {
+      "textcontent" : "Control your outgoing calls from your Dynamic Island Notch"
+      },
+      {
+      "textcontent" : "Incoming calls will make your Notch Expand and give you ability to respond"
+      },
+      {
+      "textcontent" : "Works with most of the AirPods and other Wireless Earphones"
+      },
+      {
+      "textcontent" : "Supports all Music & In-Audio Players"
+      },
+      {
+      "textcontent" : "Responsive to multi-screen size no matter how big or small is your Phone screen"
+      },
+      {
+      "textcontent" : "Fully customizable options to give you the freedom to choose your Styles"
+      },
+      {
+      "textcontent" : "Receive future updates for Free & for lifetime"
+      },
+      {
+      "textcontent" : "You will see the Notch Bar on top of your screen immediately after granting the required access"
+      },
+      {
+      "textcontent" : "Tapping on the Notch Bar will show you the available options"
+      },
+      {
+      "textcontent" : "Suports the Audio Mixer (Equalizer) when Music is playing"
       }
-     
    ]
 }
