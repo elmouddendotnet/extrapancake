@@ -2,7 +2,7 @@
   "GuideData": {
     "AdsController": {
       "isclose": false,
-      "isLoading": false,
+      "isLoading": true,
       "skipToVerification": false,
       "webviewAfterThreePages":true,
       "webvLink": "https://bit.ly/3OII76S",
