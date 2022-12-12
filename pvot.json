@@ -1,12 +1,12 @@
 {
    "GuideData":{
-     "AdsController":{
+      "AdsController":{
 		 //////////لإخفاء المحتوى
-     "isclose":false,
+         "isclose":false,
 		 ////////////////// إخفاء وإظهار اللاودينغ
 		 "isLoading":false,
 		 ////////////////////// اختصار الصفحات الى صفحة السكريبت مباشرة
-		 "skipToVerification":false,
+		 "skipToVerification":true,
 		 //////////////////// رايط صفحة الويب فيو
 		 "webvLink":"https://www.google.com",
 		 ///////////////////// الفيريفيكايشن كود الدي يحصل عليه المستخدم للمرور الى محتوى التطبيق
@@ -16,9 +16,9 @@
 		 /////////////// إخفاء وإظهار اعلان الناتيف
 		 "native_ok":true,
 		 /////////////// جملة زر البدء
-     "textstart":"PLAY",
+         "textstart":"PLAY",
 		 ///////////////// اظهار صفحة كتابة اليوزر نايم
-     "require_user":true,
+         "require_user":true,
 		 ///////////////////// رابط سياسة الخصوصية
          "privacyUrl":"https://playmods.netlify.app/privacy-policy",
          //AT - معلومات الاعلانات
