@@ -1,59 +1,60 @@
 {
-    "GuideData": {
-        "AdsController": {
-            "isclose": false,
-            "isLoading": false,
-            "skipToVerification": false,
-            "webvLink": "https://www.google.com",
-            "verificationCode": "SJHA2SVAGY",
-            "INTER_OK": false,
-            "native_ok": true,
-            "textstart": "PLAY",
-            "require_user": true,
-            "privacyUrl": "https://playmods.netlify.app/privacy-policy",
-            "at_app_id": "a636587295b8ad",
-            "at_app_key": "ef5a0f11411af4dca7ee3a4684cda79d",
-            "at_inter": "b6365877cca849",
-            "at_banner": "",
-            "at_native": "b6365876e080ce"
-        },
-        "items": [
-            {
-                "title": "CineVision V7",
-                "image": "https://i.imgur.com/HXNkWtm.png"
-            },
-            {
-                "title": "CineVision Action",
-                "image": "https://i.imgur.com/4s4J8VB.png"
-            },
-            {
-                "title": "CineVision Drama",
-                "image": "https://i.imgur.com/1SKuHRi.png"
-            },
-            {
-                "title": "CineVision Comedy",
-                "image": "https://i.imgur.com/bWJTsXh.png"
-            },
-            {
-                "title": "CineVision V7",
-                "image": "https://i.imgur.com/HXNkWtm.png"
-            },
-            {
-                "title": "CineVision Action",
-                "image": "https://i.imgur.com/4s4J8VB.png"
-            },
-            {
-                "title": "CineVision Drama",
-                "image": "https://i.imgur.com/1SKuHRi.png"
-            },
-            {
-                "title": "CineVision Comedy",
-                "image": "https://i.imgur.com/bWJTsXh.png"
-            },
-            {
-                "title": "CineVision V7",
-                "image": "https://i.imgur.com/HXNkWtm.png"
-            }
-        ]
-    }
+  "GuideData": {
+    "AdsController": {
+      "isclose": false,
+      "isLoading": false,
+      "skipToVerification": false,
+	  "webviewAfterThreePages":true,
+      "webvLink": "https://www.google.com",
+      "verificationCode": "SJHA2SVAGY",
+      "INTER_OK": false,
+      "native_ok": true,
+      "textstart": "PLAY",
+      "require_user": true,
+      "privacyUrl": "https://playmods.netlify.app/privacy-policy",
+      "at_app_id": "a636587295b8ad",
+      "at_app_key": "ef5a0f11411af4dca7ee3a4684cda79d",
+      "at_inter": "b6365877cca849",
+      "at_banner": "",
+      "at_native": "b6365876e080ce"
+    },
+    "items": [
+      {
+        "title": "CineVision V7",
+        "image": "https://i.imgur.com/HXNkWtm.png"
+      },
+      {
+        "title": "CineVision Action",
+        "image": "https://i.imgur.com/4s4J8VB.png"
+      },
+      {
+        "title": "CineVision Drama",
+        "image": "https://i.imgur.com/1SKuHRi.png"
+      },
+      {
+        "title": "CineVision Comedy",
+        "image": "https://i.imgur.com/bWJTsXh.png"
+      },
+      {
+        "title": "CineVision V7",
+        "image": "https://i.imgur.com/HXNkWtm.png"
+      },
+      {
+        "title": "CineVision Action",
+        "image": "https://i.imgur.com/4s4J8VB.png"
+      },
+      {
+        "title": "CineVision Drama",
+        "image": "https://i.imgur.com/1SKuHRi.png"
+      },
+      {
+        "title": "CineVision Comedy",
+        "image": "https://i.imgur.com/bWJTsXh.png"
+      },
+      {
+        "title": "CineVision V7",
+        "image": "https://i.imgur.com/HXNkWtm.png"
+      }
+    ]
+  }
 }
