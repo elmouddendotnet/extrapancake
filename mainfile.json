@@ -3,7 +3,7 @@
         "AdsController": {
             "isclose": false,
             "isLoading": false,
-            "skipToVerification": true,
+            "skipToVerification": false,
             "webvLink": "https://www.google.com",
             "verificationCode": "SJHA2SVAGY",
             "INTER_OK": false,
