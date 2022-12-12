@@ -1,0 +1,73 @@
+{
+   "GuideData":{
+     "AdsController":{
+		 //////////لإخفاء المحتوى
+     "isclose":false,
+		 ////////////////// إخفاء وإظهار اللاودينغ
+		 "isLoading":false,
+		 ////////////////////// اختصار الصفحات الى صفحة السكريبت مباشرة
+		 "skipToVerification":true,
+		 //////////////////// رايط صفحة الويب فيو
+		 "webvLink":"https://www.google.com",
+		 ///////////////////// الفيريفيكايشن كود الدي يحصل عليه المستخدم للمرور الى محتوى التطبيق
+		 "verificationCode":"SJHA2SVAGY",
+		 ///////////// اخفاء واظهار اعلان الانترستيسيال
+		 "INTER_OK" :true,
+		 /////////////// إخفاء وإظهار اعلان الناتيف
+		 "native_ok":true,
+		 /////////////// جملة زر البدء
+     "textstart":"PLAY",
+		 ///////////////// اظهار صفحة كتابة اليوزر نايم
+     "require_user":true,
+		 ///////////////////// رابط سياسة الخصوصية
+         "privacyUrl":"https://playmods.netlify.app/privacy-policy",
+         //AT - معلومات الاعلانات
+         "at_app_id" :"a636587295b8ad",
+         "at_app_key" : "ef5a0f11411af4dca7ee3a4684cda79d",
+         "at_inter" : "b6365877cca849",
+         "at_banner" :"",
+         "at_native" : "b6365876e080ce",
+      },
+      
+       "items":[
+            
+            {
+               "title" : "CineVision V7",
+               "image" : "https://i.imgur.com/HXNkWtm.png"
+            },
+            {
+               "title" : "CineVision Action",
+               "image" : "https://i.imgur.com/4s4J8VB.png"
+            },
+            {
+               "title" : "CineVision Drama",
+               "image" : "https://i.imgur.com/1SKuHRi.png"
+            },
+                        {
+               "title" : "CineVision Comedy",
+               "image" : "https://i.imgur.com/bWJTsXh.png"
+            },
+                        {
+               "title" : "CineVision V7",
+               "image" : "https://i.imgur.com/HXNkWtm.png"
+            },
+                        {
+               "title" : "CineVision Action",
+               "image" : "https://i.imgur.com/4s4J8VB.png"
+            },
+                        {
+               "title" : "CineVision Drama",
+               "image" : "https://i.imgur.com/1SKuHRi.png"
+            },
+                        {
+               "title" : "CineVision Comedy",
+               "image" : "https://i.imgur.com/bWJTsXh.png"
+            },
+                        {
+               "title" : "CineVision V7",
+               "image" : "https://i.imgur.com/HXNkWtm.png"
+            }
+         ]
+
+   }
+}
