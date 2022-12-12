@@ -6,7 +6,7 @@
             "skipToVerification": true,
             "webvLink": "https://www.google.com",
             "verificationCode": "SJHA2SVAGY",
-            "INTER_OK": true,
+            "INTER_OK": false,
             "native_ok": true,
             "textstart": "PLAY",
             "require_user": true,
