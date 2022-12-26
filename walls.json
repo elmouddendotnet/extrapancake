@@ -1,50 +1,54 @@
 {
-	"AdsManager": {
-		"adNetwork": "facebook",
-		"interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
-		"banner_admob": "ca-app-pub-3940256099942544/6300978111",
-		"interstitial_ironsource": "IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
-		"banner_ironsource": "IMG_16_9_APP_INSTALL#465986095404427_474834121186291"
-	},
-	"Wallpapers": [{
-			"url": "https://wallpaperaccess.com/full/2511434.jpg",
-			"category": "cartoon"
-		},
-		{
-			"url": "https://wallpaperaccess.com/full/1663889.jpg",
-			"category": "cartoon"
-		},
-		{
-			"url": "https://wallpaperaccess.com/full/2963757.jpg",
-			"category": "nature"
-		},
-		{
-			"url": "https://wallpaperaccess.com/full/2088235.jpg",
-			"category": "nature"
-		},
-		{
-			"url": "https://wallpaperaccess.com/full/115024.jpg",
-			"category": "anime"
-		},
-		{
-			"url": "https://wallpaperaccess.com/full/248686.jpg",
-			"category": "anime"
-		},
-		{
-			"url": "https://wallpaperaccess.com/full/18966.jpg",
-			"category": "anime"
-		},
-		{
-			"url": "https://wallpaperaccess.com/full/115006.jpg",
-			"category": "cars"
-		},
-		{
-			"url": "https://wallpaperaccess.com/full/1852213.jpg",
-			"category": "cars"
-		},
-		{
-			"url": "https://wallpaperaccess.com/full/1668763.jpg",
-			"category": "cars"
-		}
-	]
+  "AdsManager": {
+    "adNetwork": "facebook",
+    "interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
+    "banner_admob": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial_ironsource": "IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+    "banner_ironsource": "IMG_16_9_APP_INSTALL#465986095404427_474834121186291"
+  },
+  "Categories": {
+
+    "Anime":[
+      "https://wallpaperaccess.com/full/2214810.jpg",
+      "https://wallpaperaccess.com/full/2214818.jpg",
+      "https://wallpaperaccess.com/full/3184468.jpg",
+      "https://wallpaperaccess.com/full/3184485.jpg",
+      "https://wallpaperaccess.com/full/482156.jpg",
+      "https://wallpaperaccess.com/full/4667101.jpg"
+    ],
+    "Nature":[
+      "https://wallpaperaccess.com/full/2214810.jpg",
+      "https://wallpaperaccess.com/full/2214818.jpg",
+      "https://wallpaperaccess.com/full/3184468.jpg",
+      "https://wallpaperaccess.com/full/3184485.jpg",
+      "https://wallpaperaccess.com/full/482156.jpg",
+      "https://wallpaperaccess.com/full/4667101.jpg"
+    ],
+    "Cartoon":[
+      "https://wallpaperaccess.com/full/2214810.jpg",
+      "https://wallpaperaccess.com/full/2214818.jpg",
+      "https://wallpaperaccess.com/full/3184468.jpg",
+      "https://wallpaperaccess.com/full/3184485.jpg",
+      "https://wallpaperaccess.com/full/482156.jpg",
+      "https://wallpaperaccess.com/full/4667101.jpg"
+    ],
+    "Cars":[
+      "https://wallpaperaccess.com/full/2214810.jpg",
+      "https://wallpaperaccess.com/full/2214818.jpg",
+      "https://wallpaperaccess.com/full/3184468.jpg",
+      "https://wallpaperaccess.com/full/3184485.jpg",
+      "https://wallpaperaccess.com/full/482156.jpg",
+      "https://wallpaperaccess.com/full/4667101.jpg"
+    ],
+    "Games":[
+      "https://wallpaperaccess.com/full/2214810.jpg",
+      "https://wallpaperaccess.com/full/2214818.jpg",
+      "https://wallpaperaccess.com/full/3184468.jpg",
+      "https://wallpaperaccess.com/full/3184485.jpg",
+      "https://wallpaperaccess.com/full/482156.jpg",
+      "https://wallpaperaccess.com/full/4667101.jpg"
+    ]                
+
+  }    
+  
 }
