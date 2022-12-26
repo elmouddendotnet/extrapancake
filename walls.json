@@ -6,24 +6,36 @@
     "interstitial_ironsource": "IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
     "banner_ironsource": "IMG_16_9_APP_INSTALL#465986095404427_474834121186291"
   },
-  "Wallpapers": {
-    "Anime":[
-      "https://wallpaperaccess.com/full/2748843.jpg",
-      "https://wallpaperaccess.com/full/820053.jpg",
-      "https://wallpaperaccess.com/full/810526.jpg",
-      "https://wallpaperaccess.com/full/3304047.jpg"
-    ],
-    "Cartoon":[
-      "https://wallpaperaccess.com/full/2748843.jpg",
-      "https://wallpaperaccess.com/full/820053.jpg",
-      "https://wallpaperaccess.com/full/810526.jpg",
-      "https://wallpaperaccess.com/full/3304047.jpg"
-    ],
-    "Nature":[
-      "https://wallpaperaccess.com/full/2748843.jpg",
-      "https://wallpaperaccess.com/full/820053.jpg",
-      "https://wallpaperaccess.com/full/810526.jpg",
-      "https://wallpaperaccess.com/full/3304047.jpg"
-    ]        
-  }
+  "Wallpapers": [
+    {
+      "cat": "Anime",
+      "img":"https://wallpaperaccess.com/full/820053.jpg",
+      "urls": [
+        "https://wallpaperaccess.com/full/2748843.jpg",
+        "https://wallpaperaccess.com/full/820053.jpg",
+        "https://wallpaperaccess.com/full/810526.jpg",
+        "https://wallpaperaccess.com/full/3304047.jpg"
+      ]
+    },
+    {
+      "cat": "Cartoon",
+      "img":"https://wallpaperaccess.com/full/820053.jpg",
+      "urls": [
+        "https://wallpaperaccess.com/full/2748843.jpg",
+        "https://wallpaperaccess.com/full/820053.jpg",
+        "https://wallpaperaccess.com/full/810526.jpg",
+        "https://wallpaperaccess.com/full/3304047.jpg"
+      ]
+    },
+    {
+      "cat": "Nature",
+      "img":"https://wallpaperaccess.com/full/820053.jpg",
+      "urls": [
+        "https://wallpaperaccess.com/full/2748843.jpg",
+        "https://wallpaperaccess.com/full/820053.jpg",
+        "https://wallpaperaccess.com/full/810526.jpg",
+        "https://wallpaperaccess.com/full/3304047.jpg"
+      ]
+    }
+  ]
 }
