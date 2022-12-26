@@ -8,34 +8,44 @@
   },
   "Wallpapers": [
     {
-      "cat": "Anime",
-      "img":"https://wallpaperaccess.com/full/820053.jpg",
-      "urls": [
-        "https://wallpaperaccess.com/full/2748843.jpg",
-        "https://wallpaperaccess.com/full/820053.jpg",
-        "https://wallpaperaccess.com/full/810526.jpg",
-        "https://wallpaperaccess.com/full/3304047.jpg"
-      ]
+      "url": "https://wallpaperaccess.com/full/2511434.jpg",
+      "category": "cartoon"
     },
     {
-      "cat": "Cartoon",
-      "img":"https://wallpaperaccess.com/full/820053.jpg",
-      "urls": [
-        "https://wallpaperaccess.com/full/2748843.jpg",
-        "https://wallpaperaccess.com/full/820053.jpg",
-        "https://wallpaperaccess.com/full/810526.jpg",
-        "https://wallpaperaccess.com/full/3304047.jpg"
-      ]
+      "url": "https://wallpaperaccess.com/full/1663889.jpg",
+      "category": "cartoon"
     },
     {
-      "cat": "Nature",
-      "img":"https://wallpaperaccess.com/full/820053.jpg",
-      "urls": [
-        "https://wallpaperaccess.com/full/2748843.jpg",
-        "https://wallpaperaccess.com/full/820053.jpg",
-        "https://wallpaperaccess.com/full/810526.jpg",
-        "https://wallpaperaccess.com/full/3304047.jpg"
-      ]
+      "url": "https://wallpaperaccess.com/full/2963757.jpg",
+      "category": "nature"
+    },
+    {
+      "url": "https://wallpaperaccess.com/full/2088235.jpg",
+      "category": "nature"
+    },
+    {
+      "url": "https://wallpaperaccess.com/full/115024.jpg",
+      "category": "anime"
+    },
+    {
+      "url": "https://wallpaperaccess.com/full/248686.jpg",
+      "category": "anime"
+    },
+    {
+      "url": "https://wallpaperaccess.com/full/18966.jpg",
+      "category": "anime"
+    },
+    {
+      "url": "https://wallpaperaccess.com/full/115006.jpg",
+      "category": "cars"
+    },
+    {
+      "url": "https://wallpaperaccess.com/full/1852213.jpg",
+      "category": "cars"
+    },
+    {
+      "url": "https://wallpaperaccess.com/full/1668763.jpg",
+      "category": "cars"
     }
   ]
 }
