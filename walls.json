@@ -1,6 +1,6 @@
 {
   "AdsManager": {
-    "adNetwork": "ironsource",
+    "adNetwork": "admob",
     "appopen_admob": "ca-app-pub-3940256099942544/1033173712",
     "interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
     "banner_admob": "ca-app-pub-3940256099942544/6300978111",
