@@ -1,0 +1,9 @@
+{
+  "AdsManager": {
+    "adNetwork": "ironsource",
+    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+    "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+    "fan_banner":"17f6c2d9d",
+    "fan_inter":"17f6c2d9d"
+  }
+}
