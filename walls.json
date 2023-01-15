@@ -4,48 +4,36 @@
     "appopen_admob": "ca-app-pub-3940256099942544/1033173712",
     "interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
     "banner_admob": "ca-app-pub-3940256099942544/6300978111",
-    "iron_app_key":"17f6c2d9d"
+    "iron_app_key":"17f6c2d9d",
+    "ratingActive":true
   },
   "Wallpapers": [
     {
       "url": "https://wallpaperaccess.com/full/2511434.jpg",
-      "category": "cartoon"
+      "category": "Cartoon"
     },
+	
     {
-      "url": "https://wallpaperaccess.com/full/1663889.jpg",
-      "category": "cartoon"
+      "url": "https://wallpaperaccess.com/full/2511434.jpg",
+      "category": "Cartoon"
     },
-    {
-      "url": "https://wallpaperaccess.com/full/2963757.jpg",
-      "category": "nature"
+	
+	{
+      "url": "https://wallpaperaccess.com/full/2511434.jpg",
+      "category": "Cartoon"
     },
-    {
-      "url": "https://wallpaperaccess.com/full/2088235.jpg",
-      "category": "nature"
+	{
+      "url": "https://wallpaperaccess.com/full/2511434.jpg",
+      "category": "Cartoon"
     },
-    {
-      "url": "https://wallpaperaccess.com/full/115024.jpg",
-      "category": "anime"
-    },
-    {
-      "url": "https://wallpaperaccess.com/full/248686.jpg",
-      "category": "anime"
-    },
-    {
-      "url": "https://wallpaperaccess.com/full/18966.jpg",
-      "category": "anime"
-    },
-    {
-      "url": "https://wallpaperaccess.com/full/115006.jpg",
-      "category": "cars"
-    },
-    {
-      "url": "https://wallpaperaccess.com/full/1852213.jpg",
-      "category": "cars"
-    },
-    {
-      "url": "https://wallpaperaccess.com/full/1668763.jpg",
-      "category": "cars"
+	{
+      "url": "https://wallpaperaccess.com/full/2511434.jpg",
+      "category": "Cartoon"
+    },    
+	{
+      "url": "https://wallpaperaccess.com/full/2511434.jpg",
+      "category": "Cartoon"
     }
+	
   ]
 }
