@@ -1,0 +1,27 @@
+{
+  "adnetwork":"admob",
+  
+  "admobBanner":"ca-app-pub-3940256099942544/6300978111",
+  "admobInter":"ca-app-pub-3940256099942544/1033173712",
+  "admobReward":"ca-app-pub-3940256099942544/5224354917",
+  
+  
+  "unityGameID":"#unitygameid",
+  "unityBanner":"#unitybanner",
+  "unityInter":"#unityinter",
+  "unityReward":"#unityreward",
+  
+  
+  "ironsourceAppID":"#ironappid",
+  "ironsourceBanner":"#ironbanner",
+  "ironsourceInter":"#ironinter",
+  "ironsourceReward":"#ironreward",
+  
+  
+  "ATAppID":"#atappid",
+  "ATAppKey":"#atappkey",
+  "ATBanner":"#atbanner",
+  "ATInter":"#atinter",
+  "ATReward":"#atreward"
+
+}
