@@ -1,5 +1,5 @@
 {
-  "adnetwork":"admob",
+  "adnetwork":"atnetwork",
   
   "admobBanner":"ca-app-pub-3940256099942544/6300978111",
   "admobInter":"ca-app-pub-3940256099942544/1033173712",
@@ -18,10 +18,10 @@
   "ironsourceReward":"#ironreward",
   
   
-  "ATAppID":"#atappid",
-  "ATAppKey":"#atappkey",
-  "ATBanner":"#atbanner",
-  "ATInter":"#atinter",
+  "ATAppID":"a649e39f3c2bd1",
+  "ATAppKey":"19b51afefd831b786057b2b57684d61f",
+  "ATBanner":"b649e3a035f069",
+  "ATInter":"b649e3a0f1cea8",
   "ATReward":"#atreward"
 
 }
