@@ -5,8 +5,9 @@
     "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
     "admobNative": "ca-app-pub-3940256099942544/2247696110",
     "admobAppOpen": "ca-app-pub-3940256099942544/3419835294",
-    "ironsourceAppId":"",
-    "facebookBanner":"",
-    "facebookInterstitial":""
+    "ironsourceAppId":"1ac61930d",
+    "facebookBanner":"IMG_16_9_APP_INSTALL#1016928586134543_1016928772801191",
+    "facebookInterstitial":"IMG_16_9_APP_INSTALL#1016928586134543_1016928882801180",
+    "privacyLink":"https://www.google.com"
   }
 }
