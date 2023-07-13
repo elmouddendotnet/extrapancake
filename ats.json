@@ -8,6 +8,7 @@
     "ironsourceAppId":"1ac61930d",
     "facebookBanner":"IMG_16_9_APP_INSTALL#1016928586134543_1016928772801191",
     "facebookInterstitial":"IMG_16_9_APP_INSTALL#1016928586134543_1016928882801180",
-    "privacyLink":"https://www.google.com"
+    "privacyLink":"https://www.google.com",
+    "reviewpopup":true
   }
 }
