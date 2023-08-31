@@ -1,0 +1,32 @@
+{
+  "adnetwork": "AdNetworkValue",
+  "admobinter": "AdMobInterValue",
+  "admobnative": "AdMobNativeValue",
+
+
+  "ironappid": "IronAppIDValue",
+
+
+  "applovininter": "b53b867caeecb303",
+  "applovinnative": "cbb373a98f7e475c",
+  "applovinbanner": "11f5bce857f43008",
+
+
+
+  "mobappkey": "MobAppKeyValue",
+  "mobappid": "MobAppIDValue",
+  "mobbanner": "MobBannerValue",
+  "mobinter": "MobInterValue",
+  "mobnative": "MobNativeValue",
+
+
+  "privacypolicy": "MobNativeValue",
+  "showBackground": true,
+  "showsteps": true,
+  "oncheck":true,
+  "textContent": [
+    "Value1", 
+    "Value2", 
+    "Value3"
+  ]
+}
