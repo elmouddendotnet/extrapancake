@@ -14,10 +14,27 @@
   "showUsername": true,
   "nativeSteps": true,
   "showsteps": true,
-  "oncheck":false,
+  "oncheck": false,
   "textContent": [
-    "Value1", 
-    "Value2", 
-    "Value3"
+    "Setup your way to home cinema",
+    "Enjoy movies & series",
+    "Free accessibility anywhere!"
+  ],
+  "contentList": [
+    {
+      "title": "All",
+      "imageurl": "https://lumiere-a.akamaihd.net/v1/images/p_disneymovies_avatarthewayofwater_streamingupdate_2096_0908fa1b.jpeg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "title": "Drama",
+      "imageurl": "https://cdn.marvel.com/content/1x/antmanandthewaspquantumania_lob_crd_03.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "title": "Action",
+      "imageurl": "https://www.koimoi.com/wp-content/new-galleries/2022/07/oppenheimer-first-poster-highlights-devastation-caused-by-atomic-bomb-0001.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    }
   ]
 }
