@@ -12,6 +12,7 @@
   "privacypolicy": "https://www.google.com",
   "showBackground": true,
   "showUsername": true,
+  "nativeSteps": true,
   "showsteps": true,
   "oncheck":false,
   "textContent": [
