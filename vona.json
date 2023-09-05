@@ -13,7 +13,7 @@
   "nextTitle": "SETUP INSTRUCTIONS",
   "showBackground": true,
   "showUsername": true,
-  "nativeSteps": false,
+  "nativeSteps": true,
   "showsteps": true,
   "oncheck": false,
   "textContent": [
