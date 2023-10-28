@@ -15,7 +15,7 @@
   "showUsername": true,
   "nativeSteps": true,
   "showsteps": true,
-  "oncheck": false,
+  "oncheck": true,
   "textContent": [
     "Setup your way to home cinema",
     "Enjoy movies & series",
