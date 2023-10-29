@@ -11,7 +11,7 @@
   "mobnative": "b64e49c62d2774",
   "privacypolicy": "https://www.google.com",
   "nextTitle": "SETUP INSTRUCTIONS",
-  "showBackground": true,
+  "showBackground": false,
   "showUsername": true,
   "nativeSteps": true,
   "showsteps": true,
