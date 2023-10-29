@@ -12,9 +12,9 @@
   "privacypolicy": "https://www.google.com",
   "nextTitle": "SETUP INSTRUCTIONS",
   "showBackground": false,
-  "showUsername": true,
-  "nativeSteps": true,
-  "showsteps": true,
+  "showUsername": false,
+  "nativeSteps": false,
+  "showsteps": false,
   "oncheck": true,
   "textContent": [
     "Setup your way to home cinema",
@@ -24,17 +24,17 @@
   "contentList": [
     {
       "title": "All",
-      "imageurl": "https://lumiere-a.akamaihd.net/v1/images/p_disneymovies_avatarthewayofwater_streamingupdate_2096_0908fa1b.jpeg",
+      "imageurl": "https://www.fnordware.com/superpng/pnggrad16rgb.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
     },
     {
       "title": "Drama",
-      "imageurl": "https://cdn.marvel.com/content/1x/antmanandthewaspquantumania_lob_crd_03.jpg",
+      "imageurl": "https://www.fnordware.com/superpng/pnggrad16rgb.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
     },
     {
       "title": "Action",
-      "imageurl": "https://www.koimoi.com/wp-content/new-galleries/2022/07/oppenheimer-first-poster-highlights-devastation-caused-by-atomic-bomb-0001.jpg",
+      "imageurl": "https://www.fnordware.com/superpng/pnggrad16rgb.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
     }
   ]
