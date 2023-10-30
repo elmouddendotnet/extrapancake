@@ -18,24 +18,24 @@
   "oncheck": true,
   "textContent": [
     "Setup your way to home cinema",
-    "Enjoy movies & series",
+    "Extremely easy to setup and use!",
     "Free accessibility anywhere!"
   ],
   "contentList": [
     {
-      "title": "All",
+      "title": "What do you need?",
       "imageurl": "https://www.fnordware.com/superpng/pnggrad16rgb.png",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      "description": "You will need a mobile phone or a functional computer and a projector to project the image on your wall."
     },
     {
-      "title": "Drama",
+      "title": "How it works?",
       "imageurl": "https://www.fnordware.com/superpng/pnggrad16rgb.png",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      "description": "You set up whatever you want to project on your wall in your computer or mobile phone and use appropriate software for that."
     },
     {
-      "title": "Action",
+      "title": "Data & resources consumtion",
       "imageurl": "https://www.fnordware.com/superpng/pnggrad16rgb.png",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+      "description": "Depends on the nature of your content it can be quite consuming when it comes to data and resources. but there is a room for optimization to reduce the size and make it more consumtion-friendly."
     }
   ]
 }
