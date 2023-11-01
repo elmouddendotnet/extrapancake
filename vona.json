@@ -25,19 +25,47 @@
   ],
   "contentList": [
     {
-      "title": "What do you need?",
-      "imageurl": "https://www.fnordware.com/superpng/pnggrad16rgb.png",
-      "description": "You will need a mobile phone or a functional computer and a projector to project the image on your wall."
+      "title": "The Evolution of Film",
+      "imageurl": "https://affine.ai/wp-content/uploads/2022/03/the-evolution-of-movies_featured_blog.jpg",
+      "description": "Over the years, cinema has evolved from silent black-and-white films to high-definition 3D spectacles. This transformation has captivated audiences worldwide, offering a journey through time and technology."
     },
     {
-      "title": "How it works?",
-      "imageurl": "https://www.fnordware.com/superpng/pnggrad16rgb.png",
-      "description": "You set up whatever you want to project on your wall in your computer or mobile phone and use appropriate software for that."
+      "title": "Iconic Movie Directors",
+      "imageurl": "https://filmlifestyle.com/wp-content/uploads/2022/04/filmmaking-skills52.jpg",
+      "description": "From Spielberg to Tarantino, some directors have left an indelible mark on cinema. Their unique styles and storytelling have influenced the industry and inspired generations of filmmakers."
     },
     {
-      "title": "Data & resources consumtion",
-      "imageurl": "https://www.fnordware.com/superpng/pnggrad16rgb.png",
-      "description": "Depends on the nature of your content it can be quite consuming when it comes to data and resources. but there is a room for optimization to reduce the size and make it more consumtion-friendly."
+      "title": "Movie Magic: Special Effects",
+      "imageurl": "https://live.staticflickr.com/7231/7233915872_38f4279cf3_b.jpg",
+      "description": "Special effects have revolutionized the way we experience films. They transport us to other worlds, creating incredible visuals and enhancing storytelling."
+    },
+    {
+      "title": "The Oscars: Celebrating Excellence",
+      "imageurl": "https://live.staticflickr.com/65535/51856076613_a0d9baea77_b.jpg",
+      "description": "The Academy Awards honor outstanding achievements in film. Each year, the ceremony highlights the best in acting, directing, and filmmaking."
+    },
+    {
+      "title": "The Art of Screenwriting",
+      "imageurl": "https://live.staticflickr.com/3159/2406045813_cab5f8211d_b.jpg",
+      "description": "Behind every great film is a great screenplay. Screenwriters craft the stories that captivate us, shaping the foundation of cinematic masterpieces."
+    },
+
+    {
+      "title": "Movie Theaters: A Timeless Tradition",
+      "imageurl": "https://thelibertylivewire.com/wp-content/uploads/2022/11/theater.jpg",
+      "description": "Despite the rise of streaming services, the allure of movie theaters endures. The big screen, surround sound, and communal experience make it a unique entertainment choice."
+    },
+
+    {
+      "title": "Cinematic Legends: The Great Actors",
+      "imageurl": "https://live.staticflickr.com/5195/7415707598_fe18d7ef5e_b.jpg",
+      "description": "DActors like Meryl Streep, Marlon Brando, and Audrey Hepburn have left a lasting impact on cinema, with their unforgettable performances."
+    },
+
+    {
+      "title": "Movie Buffs Unite: Film Festivals",
+      "imageurl": "https://live.staticflickr.com/177/457938620_12bae6b27c_b.jpg",
+      "description": "Film festivals are a haven for cinephiles, showcasing a diverse array of films and celebrating the art of storytelling on the big screen."
     }
   ]
 }
