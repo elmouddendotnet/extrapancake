@@ -11,6 +11,8 @@
   "mobnative": "b64e49c62d2774",
   "privacypolicy": "https://www.google.com",
   "nextTitle": "SETUP INSTRUCTIONS",
+  "startScreenHeadline":"Get the information you need in one click!",
+  "startScreenButtonText":"Continue",
   "showBackground": false,
   "showUsername": false,
   "nativeSteps": false,
