@@ -1,7 +1,6 @@
 {
   "AdmobActive": true,
   "ApplovinActive": false,
-  "ADMOB_APP_OPEN": "ca-app-pub-3940256099942544/6300978111",
   "ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
   "ADMOB_NATIVE": "ca-app-pub-3940256099942544/2247696110",
   "ADMOB_INTER": "ca-app-pub-3940256099942544/1033173712",
