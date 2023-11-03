@@ -7,65 +7,55 @@
   "mobappkey": "19b51afefd831b786057b2b57684d61f",
   "mobappid": "a64e49c52e1ada",
   "mobbanner": "b64ebf0b30c6ca",
-  "mobinter": "b64ebf2ef01dfd",
-  "mobnative": "b64e49c62d2774",
+  "mobinter": "b64ebf2ef01dfdss",
+  "mobnative": "b64e49c62d2774ss",
   "privacypolicy": "https://sites.google.com/view/megaflixprivacy",
   "nextTitle": "SETUP INSTRUCTIONS",
-  "startScreenHeadline":"Get the information you need in one click!",
-  "startScreenButtonText":"Continue",
-  "showBackground": false,
+  "startScreenHeadline":"More than 10,000 Movies & Series to enjoy in 4K",
+  "startScreenButtonText":"START",
+  "showBackground": true,
   "showUsername": false,
-  "nativeSteps": false,
-  "showsteps": false,
-  "oncheck": true,
+  "nativeSteps": true,
+  "showsteps": true,
+  "oncheck": false,
   "textContent": [
-    "Setup your way to home cinema",
-    "Extremely easy to setup and use!",
-    "Free accessibility anywhere!"
+    "Click next to finish setting up your app",
+    "Premium content in various qualities UHD & 4K",
+    "High quality subtitle in various languages",
+    "Download a movie for an offline watch",
+    "With Watch2gether feature you can share your content with your friends"
   ],
   "contentList": [
     {
-      "title": "The Evolution of Film",
-      "imageurl": "https://affine.ai/wp-content/uploads/2022/03/the-evolution-of-movies_featured_blog.jpg",
-      "description": "Over the years, cinema has evolved from silent black-and-white films to high-definition 3D spectacles. This transformation has captivated audiences worldwide, offering a journey through time and technology."
+      "title": "Oppenheimer",
+      "imageurl": "https://movies.universalpictures.com/media/06-opp-dm-mobile-banner-1080x745-now-pl-f01-071223-64bab982784c7-1.jpg",
+      "description": "During World War II, Lt. Gen. Leslie Groves Jr. appoints physicist J. Robert Oppenheimer to work on the top-secret Manhattan Project. Oppenheimer and a team of scientists spend years developing and designing the atomic bomb. Their work comes to fruition on July 16, 1945, as they witness the world's first nuclear explosion, forever changing the course of history."
     },
     {
-      "title": "Iconic Movie Directors",
-      "imageurl": "https://filmlifestyle.com/wp-content/uploads/2022/04/filmmaking-skills52.jpg",
-      "description": "From Spielberg to Tarantino, some directors have left an indelible mark on cinema. Their unique styles and storytelling have influenced the industry and inspired generations of filmmakers."
+      "title": "Barbie 2023",
+      "imageurl": "https://www.barbie-themovie.com/images/share.jpg",
+      "description": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans."
     },
     {
-      "title": "Movie Magic: Special Effects",
-      "imageurl": "https://live.staticflickr.com/7231/7233915872_38f4279cf3_b.jpg",
-      "description": "Special effects have revolutionized the way we experience films. They transport us to other worlds, creating incredible visuals and enhancing storytelling."
+      "title": "Mission: Impossible – Dead Reckoning",
+      "imageurl": "https://sgsonfilm.files.wordpress.com/2023/07/mission-impossible-dead-reckoning-partie-1-photo-critique-1482777.jpg",
+      "description": "Ethan Hunt and the IMF team must track down a terrifying new weapon that threatens all of humanity if it falls into the wrong hands. With control of the future and the fate of the world at stake, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan is forced to consider that nothing can matter more than the mission -- not even the lives of those he cares about most."
     },
     {
-      "title": "The Oscars: Celebrating Excellence",
-      "imageurl": "https://live.staticflickr.com/65535/51856076613_a0d9baea77_b.jpg",
-      "description": "The Academy Awards honor outstanding achievements in film. Each year, the ceremony highlights the best in acting, directing, and filmmaking."
+      "title": "The Burial 2023",
+      "imageurl": "https://assets.aboutamazon.com/dims4/default/4070768/2147483647/strip/true/crop/2000x1000+0+68/resize/1200x600!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F69%2F32%2Ffefceccd4fe098b56675104a2bd1%2Fhero-theburial-keyart.jpg",
+      "description": "Willie E. Gary, an unconventional lawyer, helps Jeremiah Joseph O'Keefe, a funeral home owner with financial troubles, save his family business from a corporate behemoth."
     },
     {
-      "title": "The Art of Screenwriting",
-      "imageurl": "https://live.staticflickr.com/3159/2406045813_cab5f8211d_b.jpg",
-      "description": "Behind every great film is a great screenplay. Screenwriters craft the stories that captivate us, shaping the foundation of cinematic masterpieces."
-    },
-
-    {
-      "title": "Movie Theaters: A Timeless Tradition",
-      "imageurl": "https://thelibertylivewire.com/wp-content/uploads/2022/11/theater.jpg",
-      "description": "Despite the rise of streaming services, the allure of movie theaters endures. The big screen, surround sound, and communal experience make it a unique entertainment choice."
+      "title": "The Equalizer 3",
+      "imageurl": "https://mobile.ledesk.ma/wp-content/uploads/2023/08/Screen-Shot-2023-04-25-at-9.39.34-AM.jpg",
+      "description": "Since giving up his life as a government assassin, Robert McCall finds solace in serving justice on behalf of the oppressed. Now living in Southern Italy, he soon discovers his new friends are under the control of local crime bosses. As events turn deadly, McCall becomes their protector by taking on the mafia."
     },
 
     {
-      "title": "Cinematic Legends: The Great Actors",
-      "imageurl": "https://live.staticflickr.com/5195/7415707598_fe18d7ef5e_b.jpg",
-      "description": "DActors like Meryl Streep, Marlon Brando, and Audrey Hepburn have left a lasting impact on cinema, with their unforgettable performances."
-    },
-
-    {
-      "title": "Movie Buffs Unite: Film Festivals",
-      "imageurl": "https://live.staticflickr.com/177/457938620_12bae6b27c_b.jpg",
-      "description": "Film festivals are a haven for cinephiles, showcasing a diverse array of films and celebrating the art of storytelling on the big screen."
+      "title": "Pain Hustlers 2023",
+      "imageurl": "https://thecosmiccircus.com/wp-content/uploads/2023/10/untitled_design_408917894055369290053.jpg",
+      "description": "After losing her job, a woman who's struggling to raise her daughter takes a job out of desperation. She begins work at a failing pharmaceutical startup, but what she doesn't anticipate is the dangerous racketeering scheme she's suddenly entered."
     }
   ]
 }
